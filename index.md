@@ -4,7 +4,7 @@
 
 ![Logo](apop-logo.png)
 
-[Index](https://github.com/mtcahill57/523-fa20-m/edit/gh-pages/index.md)
+[Home](https://mtcahill57.github.io/523-fa20-m.github.io/)
 
 ```
 Example code to come!
