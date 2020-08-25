@@ -25,5 +25,7 @@ _Software goals:_
 
 
 For more details see our [Project PDF](https://comp523.cs.unc.edu/f20/clients/ward.pdf).
+
 [Course Webpage](https://comp523.cs.unc.edu/)
+
 [More about Dr. Ward](https://www.drernieward.com/)
