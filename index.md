@@ -23,7 +23,6 @@ _Software goals:_
 
 [Email Us!](mailto:mtcahill@live.unc.edu,rmerrico@live.unc.edu,ryanh777@live.unc.edu)
 
-
 For more details see our [Project PDF](https://comp523.cs.unc.edu/f20/clients/ward.pdf).
 
 [Course Webpage](https://comp523.cs.unc.edu/)
