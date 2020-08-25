@@ -6,20 +6,20 @@
 
 [Index](https://github.com/mtcahill57/523-fa20-m/edit/gh-pages/index.md)
 
-```markdown
-Example code
+```
+Example code to come!
 ```
 
-Possible software avenues:
+**Possible software avenues:**
 - Android App
 - iOS App
 - Web Browser
 
-Software goals:
+_Software goals:_
 1. Portal for Pet Parents to enter and record data
 2. Data interface for Vets to analyze data
 
-**Bold** and _Italic_ and `Code` text
+`Project Deliverables to come!`
 
 [Email Us!](mailto:mtcahill@live.unc.edu,rmerrico@live.unc.edu,ryanh777@live.unc.edu)
 
