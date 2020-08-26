@@ -1,10 +1,10 @@
+[Home](https://mtcahill57.github.io/523-fa20-m.github.io/)  [Project](https://mtcahill57.github.io/523-fa20-m.github.io/project.md) [Team](https://mtcahill57.github.io/523-fa20-m.github.io/team.md)  [Deliverables](https://mtcahill57.github.io/523-fa20-m.github.io/deliverables.md) [Schedule & Journal](https://mtcahill57.github.io/523-fa20-m.github.io/journal-sched.md)
+
 # 523 Group M Project Page
 ## For The Association for Pet Obesity Prevention, under Dr. Ernie Ward & Prof. Jeff Terrell
 ### Matthew Cahill, Robbie Errico, Ryan Humphrey - Fall 2020
 
 ![Logo](apop-logo.png)
-
-[Home](https://mtcahill57.github.io/523-fa20-m.github.io/)
 
 ```
 Example code to come!
@@ -18,8 +18,6 @@ Example code to come!
 _Software goals:_
 1. Portal for Pet Parents to enter and record data
 2. Data interface for Vets to analyze data
-
-`Project Deliverables to come!`
 
 [Email Us!](mailto:mtcahill@live.unc.edu,rmerrico@live.unc.edu,ryanh777@live.unc.edu)
 
