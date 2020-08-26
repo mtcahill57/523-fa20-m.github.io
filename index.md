@@ -1,4 +1,4 @@
-### [Home](index.md)  [Project](project.md) [Team](team.md)  [Deliverables](deliverables.md) [Schedule & Journal](journal-sched.md)
+### [Home](https://mtcahill57.github.io/523-fa20-m.github.io/)  [Project](project.md) [Team](team.md)  [Deliverables](deliverables.md) [Schedule & Journal](journal-sched.md)
 
 # 523 Group M Project Page
 ## For The Association for Pet Obesity Prevention, under Dr. Ernie Ward & Prof. Jeff Terrell
