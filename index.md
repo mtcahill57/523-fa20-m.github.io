@@ -7,10 +7,14 @@
 ![Logo](apop-logo.png)
 
 **Software avenues:**
+_Current_
 - Android App
+_Future_
+- iOS App
+- Web Browser
 
-_Software goals:_
-1. Portal for Pet Parents to enter and record data
+**Software goals:**
+1. Portal for Pet Parents to enter and record data and photos and see immediate feedback
 2. Portal for Vets to enter and record data
 3. Export data to csv format for better analysis
 
