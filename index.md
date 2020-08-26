@@ -7,6 +7,7 @@
 ![Logo](apop-logo.png)
 
 **Software avenues:**
+
 _Current_
 - Android App
 
