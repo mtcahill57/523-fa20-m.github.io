@@ -2,11 +2,10 @@
 
 ___
 
-# 523 Group M Project Page
-## For The Association for Pet Obesity Prevention, under Dr. Ernie Ward & Prof. Jeff Terrell
-### Matthew Cahill, Robbie Errico, Ryan Humphrey - Fall 2020
-
+# Pet Obesity Survey App
 ![Logo](apop-logo.png)
+## For The Association for Pet Obesity Prevention, under Dr. Ernie Ward & Prof. Jeff Terrell
+### Comp 523 Fall 2020 - Group M: Matthew Cahill, Ryan Humphrey, Robbie Errico
 
 **Software avenues:**
 
