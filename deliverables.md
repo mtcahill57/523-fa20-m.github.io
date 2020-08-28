@@ -10,7 +10,7 @@ ___
 | Assignment | Description | Link |
 | --- | --- | --- |
 | Trello Board | Create collaborative board to track project status | [Board](https://trello.com/b/Sr7t6byI/comp-523-m-pet-obesity) |
-| Website | Create landing page for project information | [Home Page](https://mtcahill57.github.io/523-fa20-m.github.io/) |
+| Website | Create landing page for project information | [Home](https://mtcahill57.github.io/523-fa20-m.github.io/) |
 | User Stories | Define project features in terms of desiderata | TBA |
 
 [Course assignments](https://comp523.cs.unc.edu/assignments/)
