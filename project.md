@@ -15,4 +15,4 @@ Short Project Description
 Long Project Description
 ```
 
-For more details, see our [Project PDF](https://comp523.cs.unc.edu/f20/clients/ward.pdf)
+For more details see our [Project PDF](https://comp523.cs.unc.edu/f20/clients/ward.pdf).
