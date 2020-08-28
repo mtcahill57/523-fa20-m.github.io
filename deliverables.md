@@ -4,8 +4,8 @@ ___
 
 # Pet Obesity Survey App
 
+[Course assignments](https://comp523.cs.unc.edu/assignments/)
+
 ```
 Deliverables
 ```
-
-[Full list of assignments](https://comp523.cs.unc.edu/assignments/)
