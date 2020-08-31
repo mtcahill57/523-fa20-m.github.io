@@ -8,15 +8,15 @@ ___
 # Pet Obesity Survey App
 
 **Team**
-- Matthew Cahill: _Project Manager, Integration Developer_
-
-<mtcahill@live.unc.edu>
-- Ryan Humphrey: _Lead Frontend Developer_
-
-<ryanh777@live.unc.edu>
-- Robbie Errico: _Lead Backend Developer_
-
-<rmerrico@live.unc.edu>
+- Matthew Cahill
+  - _Project Manager, Integration Developer_
+  - <mtcahill@live.unc.edu>
+- Ryan Humphrey
+  - _Lead Frontend Developer_
+  - <ryanh777@live.unc.edu>
+- Robbie Errico
+  - _Lead Backend Developer_
+  - <rmerrico@live.unc.edu>
 
 **Client: Ernie Ward, DVM, CVFT**
 
