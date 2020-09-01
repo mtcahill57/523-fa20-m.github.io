@@ -7,9 +7,8 @@ ___
 
 # Pet Obesity Survey App
 
-```
-Short Project Description
-```
+**Project Overview**
+Veterinarians currently record information on pet obesity on paper, which must then be manually translated to digital data before it can be analyzed, which is inefficient. We will attempt to create an app to streamline this process, while still being simple and intuitive for use.
 
 
 **Need for Software:**
