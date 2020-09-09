@@ -11,6 +11,7 @@ ___
 | --- | --- | --- |
 | Trello Board | Create collaborative board to track project status | [Board](https://trello.com/b/Sr7t6byI/comp-523-m-pet-obesity) |
 | Website | Create landing page for project information | [Home](https://mtcahill57.github.io/523-fa20-m.github.io/) |
-| User Stories | Define project features in terms of desiderata | TBA |
+| User Stories | Define project features in terms of desiderata | [User Stories](user-stories.md) |
+| Clickable Prototype | Demonstrate mock UI designs with navigation | TBA (Figma) |
 
 [Course assignments](https://comp523.cs.unc.edu/assignments/)
