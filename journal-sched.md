@@ -41,3 +41,5 @@ Client meeting; demonstrated our clickable prototype and user interfact template
 09/22/2020
 Mentor meeting; discussed project progress and effective leadership and delegation techniques.
 
+09/24/2020
+Team meeting; setup AWS main account. Established connection and distribution to android studio environment. Refined database approach and interfacing.
