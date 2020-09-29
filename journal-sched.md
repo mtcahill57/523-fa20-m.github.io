@@ -43,3 +43,6 @@ Mentor meeting; discussed project progress and effective leadership and delegati
 
 09/24/2020
 Team meeting; setup AWS main account. Established connection and distribution to android studio environment. Refined database approach and interfacing.
+
+09/29/2020
+Mentor meeting; presented architecture diagram and decisions. Talked about builting towards walking skeleton.
