@@ -8,4 +8,4 @@ ___
  ![Diagram](Architecture Diagram.png)
 [View](Architecture Diagram.png)
 ___
-[Assignment Page](https://comp523.cs.unc.edu/user-stories/)
+[Assignment Page](https://comp523.cs.unc.edu/architecture-diagram/)
