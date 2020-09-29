@@ -14,5 +14,7 @@ ___
 | User Stories | Define project features in terms of desiderata | [User Stories](user-stories.md) |
 | Clickable Prototype | Demonstrate mock UI designs with navigation | [Figma](https://www.figma.com/file/jReUenemazVBB1baHS424Z/Pet-Obesity-Data-Collection-App?node-id=5%3A16) |
 | Apples Reflection 1 | Reflect on service aspect of project | [Reflection](apples1.md) |
+| Application Architecture | Document strategic decisions about project structure | [Architecture](architecture.md) |
+| Architecture Diagram | Visual of project structure | [Diagram](diagram.md) |
 
 [Course assignments](https://comp523.cs.unc.edu/assignments/)
