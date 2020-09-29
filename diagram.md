@@ -5,7 +5,9 @@ title: Architecture Diagram
 
 ___
 
- ![Diagram](Architecture Diagram.png)
+![Diagram](Architecture Diagram.png)
+
 [View](Architecture Diagram.png)
+
 ___
 [Assignment Page](https://comp523.cs.unc.edu/architecture-diagram/)
