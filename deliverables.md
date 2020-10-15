@@ -16,5 +16,8 @@ ___
 | Apples Reflection 1 | Reflect on service aspect of project | [Reflection](apples1.md) |
 | Application Architecture | Document strategic decisions about project structure | [Architecture](architecture.md) |
 | Architecture Diagram | Visual of project structure | [Diagram](diagram.md) |
+| Walking Skeleton | Project can perform functional tasks | [Repository](https://github.com/ryanh777/APOP/tree/backend-testing) |
+| Midterm Presentation | Brief walk-through of project | [Presentation](https://docs.google.com/presentation/d/1mraqt5GK34JwPUIjiWfzx2NA3cBWXdjCquiKrpMCQdM/edit?usp=sharing) |
+
 
 [Course assignments](https://comp523.cs.unc.edu/assignments/)
