@@ -46,3 +46,9 @@ Team meeting; setup AWS main account. Established connection and distribution to
 
 09/29/2020
 Mentor meeting; presented architecture diagram and decisions. Talked about builting towards walking skeleton.
+
+10/06/2020
+Mentor Meeting; discussed walking skeleton details and work division.
+
+10/15/2020
+Mentor Meeting; demonstrated walking skeleton and discussed best security practices.
