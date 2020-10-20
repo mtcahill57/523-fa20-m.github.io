@@ -52,3 +52,6 @@ Mentor Meeting; discussed walking skeleton details and work division.
 
 10/15/2020
 Mentor Meeting; demonstrated walking skeleton and discussed best security practices.
+
+10/20/2020
+Mentor Meeting; explained project updates regarding git merges and frontend extensions.
