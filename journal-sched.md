@@ -55,3 +55,9 @@ Mentor Meeting; demonstrated walking skeleton and discussed best security practi
 
 10/20/2020
 Mentor Meeting; explained project updates regarding git merges and frontend extensions.
+
+10/22/2020
+Client Meeting; showed off frontend improvements and responded to feedback. Assigned new tasks to team.
+
+10/28/2020
+Mentor Meeting; discussed testing principles and approaches.
