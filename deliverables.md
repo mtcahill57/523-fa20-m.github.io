@@ -19,6 +19,6 @@ ___
 | Walking Skeleton | Project can perform functional tasks | [Repository](https://github.com/ryanh777/APOP/tree/backend-testing) |
 | Midterm Presentation | Brief walk-through of project | [Presentation](https://docs.google.com/presentation/d/1mraqt5GK34JwPUIjiWfzx2NA3cBWXdjCquiKrpMCQdM/edit?usp=sharing) |
 | Tech Talk | Presentation on Technology | 11/09/20 |
-| Test Coverage Report | Brief Summary of Testing | [Report](https://github.com/mtcahill57/523-fa20-m.github.io/blob/gh-pages/TestCoverageReport.pdf) ![Unit Testing](ExampleUnitTest.html) |
+| Test Coverage Report | Brief Summary of Testing | [Report](https://github.com/mtcahill57/523-fa20-m.github.io/blob/gh-pages/TestCoverageReport.pdf) [Unit Testing](ExampleUnitTest.html) |
 
 [Course assignments](https://comp523.cs.unc.edu/assignments/)
