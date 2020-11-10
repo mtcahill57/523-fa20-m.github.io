@@ -90,7 +90,14 @@ ___
       * Secure, supports storing multiple copies of data to prevent losses
     * Cons: 
       * Limited interface options
+  * Amazon DocumentDB
+    * Pros: 
+      * Easy to set up
+      * Automatically scales to size needed for data
+      * Interface with S3 via Lambda on S3 object trigger
+    * Cons: 
+      * Limited storage guarantees
 * Rationale
-  * We chose to work with Amazon DocumentDB because the service is simple and reliable. The processes of importing and exporting of data are well documented and allign with the rest of our project structure.
+  * We chose to work with Amazon DynamoDB because the service is simple and reliable. The processes of importing and exporting of data are well documented and allign with the rest of our project structure. The main connection via to our S3 bucket via Lambda will simplify our data pipeline process.
 ___
 [Assignment Page](https://comp523.cs.unc.edu/application-architecture/)
