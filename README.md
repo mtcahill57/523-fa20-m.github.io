@@ -9,6 +9,8 @@ title: README
 ## For The Association for Pet Obesity Prevention, under Dr. Ernie Ward & Prof. Jeff Terrell
 ### Comp 523 Fall 2020 - Group M: Matthew Cahill, Ryan Humphrey, Robbie Errico
 
+## The main github repository for this project can be found [here](https://github.com/ryanh777/APOP)
+
 **Overview**
 
 Veterinarians currently record information on pet obesity on paper, which must then be manually translated to digital data before it can be analyzed, which is inefficient. We will attempt to create an app to streamline this process, while still being simple and intuitive for use.
