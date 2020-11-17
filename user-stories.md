@@ -11,7 +11,7 @@ ___
 __Essential Features__
 
 - As a signed out user, in order to use the app, I can login to a specific clinic account.
-- As a signed out user, in order to create an account, I can <>.
+- As a signed out user, in order to create an account, I can register my clinic.
 - As a logged in user, in order to use the app quickly, I can start a new survey without logging in again.
 - As an APOP Staff Member, in order to access the compiled data, I can log into an admin web panel.
 - As an APOP Staff Member, in order to manually create a clinic account, I can do so in an admin web panel.
