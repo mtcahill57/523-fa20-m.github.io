@@ -22,7 +22,7 @@ ___
 | Test Coverage Report | Brief summary of testing | [Report](https://github.com/mtcahill57/523-fa20-m.github.io/blob/gh-pages/TestCoverageReport.pdf) [Unit Testing](ExampleUnitTest.html) |
 | Developer README | Summary of project for devs | [README](https://github.com/ryanh777/APOP/blob/master/README.md) |
 | Client Oriented Overview | Project details relevant for client | [Overview](client-overview.md) |
-| Apples Reflection 2 | Reflect on service aspect of project | Reflection](apples2.md) |
+| Apples Reflection 2 | Reflect on service aspect of project | [Reflection](apples2.md) |
 
 
 [Course assignments](https://comp523.cs.unc.edu/assignments/)
