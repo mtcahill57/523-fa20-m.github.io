@@ -18,8 +18,11 @@ ___
 | Architecture Diagram | Visual of project structure | [Diagram](diagram.md) |
 | Walking Skeleton | Project can perform functional tasks | [Repository](https://github.com/ryanh777/APOP/tree/backend-testing) |
 | Midterm Presentation | Brief walk-through of project | [Presentation](https://docs.google.com/presentation/d/1mraqt5GK34JwPUIjiWfzx2NA3cBWXdjCquiKrpMCQdM/edit?usp=sharing) |
-| Tech Talk | Presentation on Technology | [Sildes](https://docs.google.com/presentation/d/1l_pMzWKR7EZpP7-EuSI-VozywbxNt3Aaa8zkuMV3Ngw/edit?usp=sharing) |
-| Test Coverage Report | Brief Summary of Testing | [Report](https://github.com/mtcahill57/523-fa20-m.github.io/blob/gh-pages/TestCoverageReport.pdf) [Unit Testing](ExampleUnitTest.html) |
-| Developer README | Summary of Project for Devs | [README](https://github.com/ryanh777/APOP/blob/master/README.md) |
+| Tech Talk | Presentation on technology | [Sildes](https://docs.google.com/presentation/d/1l_pMzWKR7EZpP7-EuSI-VozywbxNt3Aaa8zkuMV3Ngw/edit?usp=sharing) |
+| Test Coverage Report | Brief summary of testing | [Report](https://github.com/mtcahill57/523-fa20-m.github.io/blob/gh-pages/TestCoverageReport.pdf) [Unit Testing](ExampleUnitTest.html) |
+| Developer README | Summary of project for devs | [README](https://github.com/ryanh777/APOP/blob/master/README.md) |
+| Client Oriented Overview | Project details relevant for client | [Overview](client-overview.md) |
+| Apples Reflection 2 | Reflect on service aspect of project | Reflection](apples2.md) |
+
 
 [Course assignments](https://comp523.cs.unc.edu/assignments/)
